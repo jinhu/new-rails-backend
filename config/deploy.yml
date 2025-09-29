@@ -7,7 +7,7 @@ image: jinhu/new_rails_backend
 # Deploy to these servers.
 servers:
   web:
-    - demo.manatree.dev
+    - localhost
   # job:
   #   hosts:
   #     - 192.168.0.1
